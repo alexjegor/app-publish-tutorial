@@ -50,6 +50,10 @@ Apple defines two types of testers for TestFlight:
 * **Internal Tester**: This is an iTunes Connect user that has an Admin, App Manager, Legal, Developer, or Marketer role with access to your app. This is usually a team member or a client for whom you’re developing an app. You can add up to 25 internal testers.
 * **External Tester**: This is any user outside of your team that wants to test your app. An external tester has no access to your iTunes Connect account in any way, and can only download and install the app. You can add up to 10,000 external testers.
 
+To start beta testing of your app, go to the My Apps section on the App Store Connect home page and click on your app. Activity tab is the section where you’ll find all the builds you uploaded earlier.
+
+In the left side menu of TestFlight tab you can see `TESTERS & GROUPS` panel where you can manage.
+
 Before your external testers can test your app, you must submit your TestFlight build to Apple for review, exactly as you would with a normal App Store submission. These reviews tend to go faster than normal app reviews, although you shouldn’t count on it, and once it’s approved, you can let external testers test your app.
 Internal testers, on the other hand, are instantaneously notified about new builds as soon as they are uploaded and processed within iTunes Connect. To manage internal testers visit [Users and Access](https://appstoreconnect.apple.com/access/users) section inside App Store Connect
 
