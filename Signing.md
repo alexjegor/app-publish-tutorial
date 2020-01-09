@@ -4,6 +4,8 @@ Apple Developer [account](https://developer.apple.com/account/) is required to r
 
 <em>NOTE: To develop iOS apps using the latest technologies, you need a Mac computer (macOS 10.11.5 or later) running the latest version of Xcode.</em>
 
+## Manual Signing
+
 #### Prerequisites
 
 During the course of developing your app, you have to create following assets:

@@ -1,5 +1,6 @@
 # App Store Connect
 
+[App Store Connect](https://appstoreconnect.apple.com) is a suite of web-based tools for managing apps sold on the App Store for iPhone, iPad, Mac, Apple Watch, Apple TV, and iMessage. As a member of the Apple Developer Program, you’ll use App Store Connect to submit and manage apps, invite users to test with TestFlight, add tax and banking information, access sales reports, and more.
 
 ## Adding Your App’s Information and Metadata
 Before you can upload a build of your app to App Store Connect, you must first create it in your App Store Connect account.
@@ -52,7 +53,7 @@ Apple defines two types of testers for TestFlight:
 
 To start beta testing of your app, go to the My Apps section on the App Store Connect home page and click on your app. Activity tab is the section where you’ll find all the builds you uploaded earlier.
 
-In the left side menu of TestFlight tab you can see `TESTERS & GROUPS` panel where you can manage.
+In the left side menu of TestFlight tab you can see `TESTERS & GROUPS` panel. This is the place where you can manage who has beta access to your application.
 
 Before your external testers can test your app, you must submit your TestFlight build to Apple for review, exactly as you would with a normal App Store submission. These reviews tend to go faster than normal app reviews, although you shouldn’t count on it, and once it’s approved, you can let external testers test your app.
 Internal testers, on the other hand, are instantaneously notified about new builds as soon as they are uploaded and processed within iTunes Connect. To manage internal testers visit [Users and Access](https://appstoreconnect.apple.com/access/users) section inside App Store Connect
